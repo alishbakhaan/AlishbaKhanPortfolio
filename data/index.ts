@@ -142,28 +142,28 @@ export const testimonials = [
   {
     
     quote:
-      "Working with Alishba Khan on the Paparazzi project was an absolute pleasure. Her professionalism, responsiveness, and commitment to excellence were evident from start to finish. Alishba's expertise in developing a headless CMS website, combined with her skillful use of ReactJS, TailwindCSS, and Sanity, resulted in a seamless and dynamic user experience. If you want to elevate your website and enhance your brand, Alishba is the perfect partner.",
+      "Working with ACM on the Paparazzi project was an absolute pleasure. Thier professionalism, responsiveness, and commitment to excellence were evident from start to finish. ACM expertise in developing a headless CMS website, combined with thier skillful use of ReactJS, TailwindCSS, and Sanity, resulted in a seamless and dynamic user experience. If you want to elevate your website and enhance your brand, ACM is the perfect partner.",
       image: "/paprazzilogo.png",
     name: "Paparazzi",
   
   },
   {
     quote:
-      "Collaborating with Alishba Khan on our food ordering website was a fantastic experience. She expertly leveraged ReactJS for the front end and NodeJS for the back end, creating a seamless and dynamic user experience. The comprehensive dashboard for adding new food items is incredibly user-friendly and efficient. If you're looking to elevate your food business with a top-notch website, Alishba is the perfect partner.",
+      "Collaborating with ACM on our food ordering website was a fantastic experience. They expertly leveraged ReactJS for the front end and NodeJS for the back end, creating a seamless and dynamic user experience. The comprehensive dashboard for adding new food items is incredibly user-friendly and efficient. If you're looking to elevate your food business with a top-notch website, ACM is the perfect partner.",
       image: "/messindialogo.png",
     name: "Mess India",
    
   },
   {
     quote:
-      "Alishba Khan created a fully responsive website for Cinta Fresh, incorporating captivating GSAP animations for a visually stunning and dynamic user experience. Highly recommended for top-notch web design and development!",
+      "ACM created a fully responsive website for Cinta Fresh, incorporating captivating GSAP animations for a visually stunning and dynamic user experience. Highly recommended for top-notch web design and development!",
       image: "/cintafreshlogo.svg",
     name: "Cinta Fresh",
 
   },
   {
     quote:
-      "Alishba Khan developed an exceptional website for Cricket Live, leveraging APIs for real-time data fetching, secure payment processing, and seamless user sign-up and login functionalities using Firebase Authentication. Highly recommended for innovative and reliable web solutions!",
+      "ACM developed an exceptional website for Cricket Live, leveraging APIs for real-time data fetching, secure payment processing, and seamless user sign-up and login functionalities using Firebase Authentication. Highly recommended for innovative and reliable web solutions!",
           image: "/cricketlogo.png",
     name: "Live Cricket",
 
