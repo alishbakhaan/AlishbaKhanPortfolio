@@ -74,19 +74,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Papparazi",
-    des: "Developed a headless CMS website that allows users to easily update content without touching code, and includes an interactive quiz feature. Utilized ReactJS, TailwindCSS, and Sanity to create a seamless and dynamic user experience.",
-    img: "/paprazzi.png",
-    iconLists: ["/re.svg", "/tail.svg", "/sanity.png"],
-    link: "https://paparazzi-house.vercel.app/",
+    title: "LuxuryStay",
+    des: "A Mern Stack Project. A Hotel Management Website in which you can booked your room according to your requirements and at the end you received an invoice.",
+    img: "/luxurystay.png",
+    iconLists: ["/re.svg", "/tail.svg", "/next.svg"],
+    link: "https://luxurystayhotel.netlify.app/",
   },
   {
     id: 2,
-    title: "Mess India",
-    des: "Created a food ordering website with a comprehensive dashboard for adding new food items, leveraging ReactJS for the front end and NodeJS for the back end.",
-    img: "/messindia.png",
-    iconLists: ["/re.svg", "/gsap.svg", "/tail.svg", "/node.png"],
-    link: "https://mess-india.web.app/",
+    title: "OffGrid",
+    des: "Created a Tourism Website. An informational Website Related to To Tourism This Website is based on NextJS",
+    img: "/offgrid.png",
+    iconLists: ["/next.svg", "/gsap.svg", "/tail.svg", "/node.png"],
+    link: "https://touroffgrid.netlify.app/",
   },
   {
     id: 3,
@@ -106,11 +106,11 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Astral Canvas Multimedia (ACM)",
-    des: "Designed an engaging and informative website, delivering valuable content with a user-friendly interface.",
-    img: "/ACM.png",
-    iconLists: ["/re.svg", "/tail.svg",],
-    link: "",
+    title: "Tour Guide",
+    des: "Designed an engaging and informative website, about tourism delivering valuable content with a user-friendly interface.",
+    img: "/tourguide.png",
+    iconLists: ["/next.svg", "/tail.svg",],
+    link: "https://tourguidance.netlify.app/",
   },
   {
     id: 6,
@@ -128,13 +128,54 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg",],
     link: "https://makkahbooking.info/",
   },
+  
    {
     id: 8,
+  title: "Mess India",
+    des: "Created a food ordering website with a comprehensive dashboard for adding new food items, leveraging ReactJS for the front end and NodeJS for the back end.",
+    img: "/messindia.png",
+    iconLists: ["/re.svg", "/gsap.svg", "/tail.svg", "/node.png"],
+    link: "https://mess-india.web.app/",
+  }, 
+  {
+    id: 9,
     title: "Dream Kitchen",
     des: "Developed a form-based website for clients to easily submit their requirements whenever they want to construct a kitchen.",
     img: "/kitchen.png",
     iconLists: ["/re.svg", "/tail.svg",],
     link: "https://dreamkitchen21.netlify.app/",
+  },
+  {
+    id: 10,
+    title: "ECommerce",
+    des: "An E-Commerce Website using our core coding language",
+    img: "/ecommerce.png",
+    iconLists: ["/exp1.svg", "/tail.svg",],
+    link: "https://clothings-e-commerce.netlify.app/",
+  },
+  {
+    id: 11,
+    title: "Digital Agency",
+    des: "Single Page Website Using Core Languages",
+    img: "/digitalagency.png",
+    iconLists: ["/exp1.svg", "/tail.svg",],
+    link: "https://clever-otter-25a17d.netlify.app/",
+  },
+  {
+    id: 12,
+    title: "Job Finder",
+    des: "Single Page Website Using Core Languages",
+    img: "/jobfind.png",
+    iconLists: ["/exp1.svg", "/tail.svg",],
+    link: "https://tourmaline-granita-f13ac7.netlify.app/",
+  },
+  {
+    id: 13,
+    title: "Paint",
+    des: "Single Page Website Using Core Languages",
+    img: "/paint.png",
+    iconLists: ["/exp1.svg", "/tail.svg",],
+    link: "https://sensational-cucurucho-ca59a9.netlify.app/",
   },
 ];
 
@@ -220,25 +261,19 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Developer Intern",
+    title: "Frontend Developer Intern (Duration: 0-6)",
     desc: "Played a key role in developing a custom web-based platform, utilizing HTML, CSS, JavaScript, and Bootstrap for a seamless and responsive user experience.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "ReactJS Intern",
-    desc: " Contributed to the development of dynamic web applications using ReactJS, enhancing user interfaces with interactive components and state management.",
+    title: "ReactJS / NextJS Intern ( Duration: 0-8)",
+    desc: "Collaborated with senior developers to create responsive and scalable web solutions, gaining hands-on experience with ReactJS, NextJS and related technologies.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
-  {
-    id: 3,
-    title: "Junior ReactJS Developer",
-    desc: "Collaborated with senior developers to create responsive and scalable web solutions, gaining hands-on experience with ReactJS and related technologies.",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp4.svg",
-  },
+
   // {
   //   id: 4,
   //   title: "Lead Frontend Developer",
