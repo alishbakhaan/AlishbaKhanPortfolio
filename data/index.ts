@@ -89,6 +89,14 @@ export const projects = [
     link: "https://touroffgrid.netlify.app/",
   },
   {
+    id: 2,  
+    title: "LunarStragety",
+    des: "Created a NextJS Website. An informational Website.",
+    img: "/lunar.png",
+    iconLists: ["/next.svg", "/gsap.svg", "/tail.svg", "/node.png"],
+    link: "https://lunarstragety.netlify.app/",
+  },
+  {
     id: 3,
     title: "Cinta Fresh",
     des: "Developed a fully responsive restaurant website featuring GSAP animations for a visually engaging and dynamic user experience.",
@@ -256,6 +264,42 @@ export const companies = [
     img: "/cintafreshlogo.svg",
     nameImg: "/dockerName.svg",
   },
+  {
+    id: 7,
+    name: "LunarStrategy",
+    img: "/lunarlogo.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 8,
+    name: "OffGrid",
+    img: "/offgridlogo.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 9,
+    name: "SoftWorks",
+    img: "/softwarelogo.png",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 10,
+    name: "Digital",
+    img: "/digitallogo.png",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 11,
+    name: "Paint",
+    img: "/paintlogo.png",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 12,
+    name: "Desopers",
+    img: "/desoperslogo.png",
+    nameImg: "/dockerName.svg",
+  },
 ];
 
 export const workExperience = [
@@ -268,19 +312,12 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "ReactJS / NextJS Intern ( Duration: 0-8)",
+    title: "ReactJS / NextJS Developer (Duration: 0-4)",
     desc: "Collaborated with senior developers to create responsive and scalable web solutions, gaining hands-on experience with ReactJS, NextJS and related technologies.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
-
-  // {
-  //   id: 4,
-  //   title: "Lead Frontend Developer",
-  //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
-  //   className: "md:col-span-2",
-  //   thumbnail: "/exp3.svg",
-  // },
+     
 ];
 
 export const socialMedia = [
